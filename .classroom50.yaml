@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "web-design-1"
+assignment: "cyoa"
+owner:
+  username: "3mp4thyC0r3"
+  id: 301772337
+  accepted_at: "2026-09-10T17:48:21Z"
+source:
+  owner: "iacs-26-27"
+  owner_id: 326979196
+  repo: "cyoa"
+  branch: "main"
